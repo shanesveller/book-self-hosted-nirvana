@@ -1,0 +1,29 @@
+{
+  "name": "self-hosted-nirvana",
+  "version": "0.1.0",
+  "description": "GitBook about self-hosting all the things",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook": "^3.2.3",
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanesveller/book-self-hosted-nirvana.git"
+  },
+  "keywords": [
+    "gitbook",
+    "kubernetes",
+    "self-hosted"
+  ],
+  "author": "Shane Sveller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanesveller/book-self-hosted-nirvana/issues"
+  },
+  "homepage": "https://github.com/shanesveller/book-self-hosted-nirvana#readme"
+}
